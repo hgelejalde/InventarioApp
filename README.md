@@ -7,3 +7,6 @@ Proyecto del curso ** fundamentos de .NET ** - Platzi
 
 ## Como ejecutar
 dotnet run
+
+## Autor
+Héctor García
